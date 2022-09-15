@@ -33,7 +33,7 @@ export default App;
 
 `const linkElement = screen.getByText(/Hello CSCI E-39!/i);`
 
-- make sure all tests pass when running `npm run test` 
+- make sure all tests pass when running `npm run test`
 
 ## Step 2
 Deploy the application using Github Pages (https://github.com/prof-tejera/react-deployment-code#github-actions) or a different method if you prefer. As long as the URL is avaliable on the public internet and live for 2 weeks, then you can use whatever method you want.
@@ -41,7 +41,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to live application: https://prof-tejera.github.io/homework-2-cwelect1/
+- What code editor are you using? VSCode
 
 That is all!
